@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../jsx/my-sales"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "my-sales"
+  }
+}
